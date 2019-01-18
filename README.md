@@ -1,4 +1,4 @@
-# labelImg (python3 build for Windows)
+# labelImg (python3 build from Windows)
 
 ### Installation
 ```
